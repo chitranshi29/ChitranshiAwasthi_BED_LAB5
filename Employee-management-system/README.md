@@ -4,3 +4,4 @@ Create an MVC project using Spring Boot & Thymeleaf (Employee Management System)
 2.	Insert new records into the table.
 3.	Update an existing record in the table.
 4.	Delete existing records from the table.
+please find screenshot for your reference in problem statement
